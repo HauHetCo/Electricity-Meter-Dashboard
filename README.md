@@ -1,2 +1,1 @@
-# Protergia
-Protergia kWh Cost Programms
+# Electricity Meter Dashboard

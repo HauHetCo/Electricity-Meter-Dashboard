@@ -1,6 +1,6 @@
-# Electricity Meter Dashboard
+# Electricity Metrics Dashboard
 # Web App
-Electricity Meter Dashboard
+Electricity Metrics Dashboard
 
 A web application that allows you to register your electricity meter readings every month.
 With this application you can check for any exclusions in the current HEDNO metering.

@@ -1,4 +1,6 @@
 # Electricity Metrics Dashboard
+# V. 1.0.2 Beta
+
 # Web App
 Electricity Metrics Dashboard
 
@@ -23,6 +25,19 @@ Calculates current month previous month and annual total electricity consumption
 ![App](images/app1.jpg) 
 
 ![App](images/app2.jpg) 
+
+# Technology
+ * PHP
+ * JavaScript
+ * jQuery
+ * Materialize CSS
+ * mySQL
+
+# Requirements
+ * Linux
+ * Nginx or Apache Server
+ * PHP 7/8
+ * mySQL
 
 
 

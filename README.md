@@ -1,5 +1,5 @@
 # Electricity Metrics Dashboard
-# V. 1.0.2 Beta
+# V. 1.0.3 Beta
 
 # App
 EMD | Electricity Metrics Dashboard
@@ -26,6 +26,8 @@ please <a href="https://hauhet.co/contact/" rel="noopener">contact us.</a>
 ![App](images/emd1.jpg) 
 
 ![App](images/emd2.jpg) 
+
+![App](images/emd3.jpg) 
 
 # Technology
  * PHP

@@ -6,11 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-# V. 1.0.2 Beta
-## [1.0.0] – 2025-09-20
+## [1.0.2] Beta – 2025-09-25
 
 ### Added
-– *HEDNO metering
-– Demonstration Protergia energy metrics
-
-Notice: *the operator of the Greek electricity distribution network
+* HEDNO metering
+* Export Data to PDF

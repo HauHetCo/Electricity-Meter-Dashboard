@@ -1,13 +1,10 @@
 # Electricity Metrics Dashboard
 # V. 1.0.2 Beta
 
-# Web App
-Electricity Metrics Dashboard
+# App
+EMD | Electricity Metrics Dashboard
 
-A web application that allows you to register your electricity meter readings every month.
-With this application you can check for any exclusions in the current HEDNO metering.
-There is a possibility for dual-zone Day - Night meters.
-Calculates current month previous month and annual total electricity consumption.
+A application that allows you to register your electricity meter readings every month. With this application you can check for any exclusions in the current HEDNO metering. There is a possibility for dual-zone Day – Night meters. Calculates current month previous month and annual total electricity consumption.
 
 ## Contents
 
@@ -22,9 +19,9 @@ Calculates current month previous month and annual total electricity consumption
    * Improvement and conclusion
    * acknowledgement
 
-![App](images/app1.jpg) 
+![App](images/emd1.jpg) 
 
-![App](images/app2.jpg) 
+![App](images/emd2.jpg) 
 
 # Technology
  * PHP
@@ -34,10 +31,10 @@ Calculates current month previous month and annual total electricity consumption
  * mySQL
 
 # Requirements
- * Linux
- * Nginx or Apache Server
- * PHP 7/8
- * mySQL
+ * Windows 7/8/10/11
+ * x64 (64-bit or x32 (32-bit)
+ * RAM 4GB
+ * Hard Disc Space 300MB
 
 
 

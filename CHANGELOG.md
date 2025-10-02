@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.3] Beta – 2025-09-27
+## [1.0.3] – 2025-09-29
 
 ### Added
 * HEDNO metering

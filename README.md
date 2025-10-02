@@ -1,5 +1,5 @@
 # Electricity Metrics Dashboard
-# V. 1.0.3 Beta
+# V. 1.0.3
 
 # App
 EMD | Electricity Metrics Dashboard
@@ -40,7 +40,7 @@ please <a href="https://hauhet.co/contact/" rel="noopener">contact us.</a>
  * Windows 7/8/10/11
  * x64 (64-bit or x32 (32-bit)
  * RAM 4GB
- * Hard Disc Space 300MB
+ * Hard Disc Space 500MB
 
 
 
